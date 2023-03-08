@@ -227,6 +227,9 @@ transform: scale(1.2);
   color: #000000 !important;
 }
 
+.stake:hover{
+  cursor: url('images/eyes.png'), pointer;
+}
 
   a {
     color: inherit;
