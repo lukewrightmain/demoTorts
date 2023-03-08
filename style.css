@@ -472,7 +472,11 @@ a {
   padding: 10px;
   line-height: 1.5; /* Add spacing between lines */
 }
-
+.secthree{
+  width: 100vw;
+  height: 50vh;
+  overflow-y: hidden;
+}
 
 .secthree-container{
   width: 100vw;
